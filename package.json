@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Gurupavan5/interactive-virtual-museum.git",
+  "homepage": "https://gurupavan5.github.io/interactive-virtual-museum",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
