@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gurupavan5/interactive-virtual-museum.git/static/css/main.13216203.css",
+    "main.js": "/Gurupavan5/interactive-virtual-museum.git/static/js/main.33fbb05d.js",
+    "static/js/453.8ab44547.chunk.js": "/Gurupavan5/interactive-virtual-museum.git/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Gurupavan5/interactive-virtual-museum.git/index.html",
+    "main.13216203.css.map": "/Gurupavan5/interactive-virtual-museum.git/static/css/main.13216203.css.map",
+    "main.33fbb05d.js.map": "/Gurupavan5/interactive-virtual-museum.git/static/js/main.33fbb05d.js.map",
+    "453.8ab44547.chunk.js.map": "/Gurupavan5/interactive-virtual-museum.git/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13216203.css",
+    "static/js/main.33fbb05d.js"
+  ]
+}
