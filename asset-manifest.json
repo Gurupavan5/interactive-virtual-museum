@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/interactive-virtual-museum/static/css/main.13216203.css",
+    "main.css": "/interactive-virtual-museum/static/css/main.43d5bc6f.css",
     "main.js": "/interactive-virtual-museum/static/js/main.b5c85971.js",
     "static/js/453.8ab44547.chunk.js": "/interactive-virtual-museum/static/js/453.8ab44547.chunk.js",
     "index.html": "/interactive-virtual-museum/index.html",
-    "main.13216203.css.map": "/interactive-virtual-museum/static/css/main.13216203.css.map",
+    "main.43d5bc6f.css.map": "/interactive-virtual-museum/static/css/main.43d5bc6f.css.map",
     "main.b5c85971.js.map": "/interactive-virtual-museum/static/js/main.b5c85971.js.map",
     "453.8ab44547.chunk.js.map": "/interactive-virtual-museum/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13216203.css",
+    "static/css/main.43d5bc6f.css",
     "static/js/main.b5c85971.js"
   ]
 }
