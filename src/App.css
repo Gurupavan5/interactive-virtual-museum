@@ -11,7 +11,7 @@ body {
 }
 
 .App-header {
-  background-image: linear-gradient(to bottom right, #2de27b, #4a00e0);
+  background-image: linear-gradient(to bottom right, #2de27b,#e08300);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
